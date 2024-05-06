@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adblock-Filters
+! Title: Adblock Filters DCL
 ! Version: 202405062051
 ! Last modified: 06 May 2024 20:51 UTC
 ! Expires: 1 days (update frequency)
