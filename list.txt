@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Title: Adblock-Filters
+! Version: 202405062051
+! Last modified: 06 May 2024 20:51 UTC
+! Expires: 1 days (update frequency)
+!
+!-----------------------General advert blocking filters-----------------------!
+###detecta-adblock
+##div.mobiliarioAdblock
+##div.mobiliarioFooter
+globo.com#$#simulate-mouse-event 'button.fc-close$delay=0'
